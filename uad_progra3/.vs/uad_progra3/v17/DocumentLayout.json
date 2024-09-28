@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Source\\CargadordeModelo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|solutionrelative:Source\\CargadordeModelo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Include\\CargadordeModelo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|solutionrelative:Include\\CargadordeModelo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\uad_progra3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|solutionrelative:uad_progra3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Include\\CApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|solutionrelative:Include\\CApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Include\\CAppObjLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|solutionrelative:Include\\CAppObjLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Source\\CGameWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|solutionrelative:Source\\CGameWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Include\\Globals.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|solutionrelative:Include\\Globals.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Source\\CAppObjLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|solutionrelative:Source\\CAppObjLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Source\\COpenGLRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|solutionrelative:Source\\COpenGLRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Source\\C3DModel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|solutionrelative:Source\\C3DModel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Include\\CAppEmpty.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F58BF2A2-ABA5-4E15-9DB3-8FD831AD2DE3}|uad_progra3.vcxproj|solutionrelative:Include\\CAppEmpty.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CGameWindow.cpp",
+              "DocumentMoniker": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Source\\CGameWindow.cpp",
+              "RelativeDocumentMoniker": "Source\\CGameWindow.cpp",
+              "ToolTip": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Source\\CGameWindow.cpp",
+              "RelativeToolTip": "Source\\CGameWindow.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T01:11:26.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Globals.h",
+              "DocumentMoniker": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Include\\Globals.h",
+              "RelativeDocumentMoniker": "Include\\Globals.h",
+              "ToolTip": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Include\\Globals.h",
+              "RelativeToolTip": "Include\\Globals.h",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T01:28:07.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CAppObjLoader.cpp",
+              "DocumentMoniker": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Source\\CAppObjLoader.cpp",
+              "RelativeDocumentMoniker": "Source\\CAppObjLoader.cpp",
+              "ToolTip": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Source\\CAppObjLoader.cpp",
+              "RelativeToolTip": "Source\\CAppObjLoader.cpp",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAlwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T01:10:33.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CAppObjLoader.h",
+              "DocumentMoniker": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Include\\CAppObjLoader.h",
+              "RelativeDocumentMoniker": "Include\\CAppObjLoader.h",
+              "ToolTip": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Include\\CAppObjLoader.h",
+              "RelativeToolTip": "Include\\CAppObjLoader.h",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T01:10:03.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CApp.h",
+              "DocumentMoniker": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Include\\CApp.h",
+              "RelativeDocumentMoniker": "Include\\CApp.h",
+              "ToolTip": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Include\\CApp.h",
+              "RelativeToolTip": "Include\\CApp.h",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-07T01:49:58.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CargadordeModelo.cpp",
+              "DocumentMoniker": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Source\\CargadordeModelo.cpp",
+              "RelativeDocumentMoniker": "Source\\CargadordeModelo.cpp",
+              "ToolTip": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Source\\CargadordeModelo.cpp",
+              "RelativeToolTip": "Source\\CargadordeModelo.cpp",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAlwJwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-07T01:28:11.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CargadordeModelo.h",
+              "DocumentMoniker": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Include\\CargadordeModelo.h",
+              "RelativeDocumentMoniker": "Include\\CargadordeModelo.h",
+              "ToolTip": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Include\\CargadordeModelo.h",
+              "RelativeToolTip": "Include\\CargadordeModelo.h",
+              "ViewState": "AgIAADkAAAAAAAAAAAAlwEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-07T01:28:15.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "uad_progra3.cpp",
+              "DocumentMoniker": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\uad_progra3.cpp",
+              "RelativeDocumentMoniker": "uad_progra3.cpp",
+              "ToolTip": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\uad_progra3.cpp",
+              "RelativeToolTip": "uad_progra3.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T01:52:32.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "COpenGLRenderer.cpp",
+              "DocumentMoniker": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Source\\COpenGLRenderer.cpp",
+              "RelativeDocumentMoniker": "Source\\COpenGLRenderer.cpp",
+              "ToolTip": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Source\\COpenGLRenderer.cpp",
+              "RelativeToolTip": "Source\\COpenGLRenderer.cpp",
+              "ViewState": "AgIAAGoDAAAAAAAAAAAAAG0DAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-07T01:53:36.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "C3DModel.cpp",
+              "DocumentMoniker": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Source\\C3DModel.cpp",
+              "RelativeDocumentMoniker": "Source\\C3DModel.cpp",
+              "ToolTip": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Source\\C3DModel.cpp",
+              "RelativeToolTip": "Source\\C3DModel.cpp",
+              "ViewState": "AgIAAKIAAAAAAAAAAAASwKgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-07T02:17:30.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CAppEmpty.h",
+              "DocumentMoniker": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Include\\CAppEmpty.h",
+              "RelativeDocumentMoniker": "Include\\CAppEmpty.h",
+              "ToolTip": "C:\\Users\\sammy\\source\\repos\\uad_progra3\\uad_progra3\\Include\\CAppEmpty.h",
+              "RelativeToolTip": "Include\\CAppEmpty.h",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-07T01:21:23.632Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
